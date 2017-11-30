@@ -1,0 +1,8 @@
+<Page >
+    <StackLayout orientation="vertical">
+
+        <Button text="Logout" tap="Logout" class = "Button"/>
+        <Button text="Cancel" tap="Cancel" class = "Button"/>
+
+    </StackLayout>
+</Page>

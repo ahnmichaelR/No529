@@ -1,0 +1,11 @@
+Page{
+    background-color:white;
+    font-size:17;
+}
+.Button{
+    background-color:white;
+    position: absolute;
+    bottom: 10px;
+    left: 50%;
+       
+}

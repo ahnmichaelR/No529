@@ -1,0 +1,9 @@
+<Page loaded="loaded">
+    <StackLayout orientation="vertical">
+        <Label text ="Do you want to log out?" />
+
+        <Button text="Logout" tap="Logout" />
+        <Button text="Cancel" class="link" tap="Cancel" />
+
+    </StackLayout>
+</Page>
